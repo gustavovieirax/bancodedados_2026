@@ -16,6 +16,11 @@ https://app.brmodeloweb.com/#!/publicview/69dec059c630eb74498ac218 - Lógico
 https://app.brmodeloweb.com/#!/publicview/69dec615c630eb74498ac71d - Conceitual
 https://app.brmodeloweb.com/#!/publicview/69dec630c630eb74498ac734- Lógico
 
+# FILMES
+
+https://app.brmodeloweb.com/#!/publicview/69dec7e2e33b4dc332f901e2 - Conceitual
+https://app.brmodeloweb.com/#!/publicview/69dec80ce33b4dc332f90215 - Lógico
+
 Repositório dedicado ao aprendizado de modelagem, consultas e administração de bancos de dados.
 
 Professora: Cintia Pinho
