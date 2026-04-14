@@ -11,7 +11,10 @@ RM: 25204
 https://app.brmodeloweb.com/#!/publicview/69debff5c630eb74498ac1cb - Conceitual
 https://app.brmodeloweb.com/#!/publicview/69dec059c630eb74498ac218 - Lógico
 
+# HOTEL
 
+https://app.brmodeloweb.com/#!/publicview/69dec615c630eb74498ac71d - Conceitual
+https://app.brmodeloweb.com/#!/publicview/69dec630c630eb74498ac734- Lógico
 
 Repositório dedicado ao aprendizado de modelagem, consultas e administração de bancos de dados.
 
