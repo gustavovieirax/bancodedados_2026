@@ -17,7 +17,7 @@ RM: 25204
 
 - Anexado por png (Por ter feito em sala pelo aplicativo brmodelo)
 
-### VENTERINÁRIA: 
+### VETERINÁRIA: 
 
 https://app.brmodeloweb.com/#!/publicview/69debff5c630eb74498ac1cb - Conceitual
 https://app.brmodeloweb.com/#!/publicview/69dec059c630eb74498ac218 - Lógico
