@@ -4,9 +4,10 @@ RM: 25204
 
 # SEGUNDO BIMESTRE:
 
-### ESTÚDIO DE TATUAGEM E MECÂNCIA, RESPECTIVAMENTE:
+## ESTÚDIO DE TATUAGEM E MECÂNCIA, RESPECTIVAMENTE:
 
  https://app.brmodeloweb.com/#!/publicview/69f286e27b72b11ace70571d - Conceitual
+ https://app.brmodeloweb.com/#!/publicview/69f28a2d7b72b11ace7058b8 - Lógico
 
 
 
