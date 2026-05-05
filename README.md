@@ -8,7 +8,7 @@ RM: 25204
  ### ESTÚDIO DE TATUAGEM:
  https://app.brmodeloweb.com/#!/publicview/69f286e27b72b11ace70571d - Conceitual
  https://app.brmodeloweb.com/#!/publicview/69f28a2d7b72b11ace7058b8 - Lógico
- https://drive.google.com/file/d/1rdzTO-YSSQVsC07j1YSXrwy3pYNrGgs1/view?usp=sharing - SQL (.txt)
+  https://drive.google.com/file/d/1rdzTO-YSSQVsC07j1YSXrwy3pYNrGgs1/view?usp=sharing - SQL (.txt)
 
  ### MECÂNICA
  https://app.brmodeloweb.com/#!/publicview/69f290837b72b11ace705c46 - Conceitual
