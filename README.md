@@ -14,6 +14,7 @@ https://drive.google.com/file/d/1rdzTO-YSSQVsC07j1YSXrwy3pYNrGgs1/view?usp=shari
  ### MECÂNICA
  https://app.brmodeloweb.com/#!/publicview/69f290837b72b11ace705c46 - Conceitual
  https://app.brmodeloweb.com/#!/publicview/69f290cb7b72b11ace705c79 - Lógico
+ 
  https://drive.google.com/file/d/1rizGuvAzPt3Ef9uNXT42nB_Qy0EQmTTL/view?usp=sharing - SQL (.txt)
 
 # PRIMEIRO BIMESTRE:
