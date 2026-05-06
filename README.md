@@ -1,4 +1,4 @@
-# 🗄️ Estudos de Banco de Dados (SQL)
+# 🗄️ Estudo de Banco de Dados (SQL)
 ## Gustavo Vieira Lima
 RM: 25204
 
