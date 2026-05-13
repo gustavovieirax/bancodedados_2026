@@ -4,7 +4,10 @@ RM: 25204
 
 # SEGUNDO BIMESTRE:
 
-
+### PRODUTOS E CATEGORIAS - MANUPILANDO MYSQL (PROMPT DE COMANDOS):
+ https://drive.google.com/file/d/1WpDM4DEjTIdAL_6iKzk8sHJ1E-3PeXJS/view?usp=sharing - .TXT (PROMPT)
+ https://drive.google.com/file/d/15HGKPfZN3pl5c1UalovPLPSCJWgfpnn_/view?usp=sharing - .SQL (PHP MY ADMIN)
+ 
  ### ESTÚDIO DE TATUAGEM:
  https://app.brmodeloweb.com/#!/publicview/69f286e27b72b11ace70571d - Conceitual
  https://app.brmodeloweb.com/#!/publicview/69f28a2d7b72b11ace7058b8 - Lógico
