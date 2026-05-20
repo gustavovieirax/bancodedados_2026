@@ -14,6 +14,7 @@ https://drive.google.com/file/d/1il1CeWPQVH1zfFcrKsKOFaO34X-j5Kv2/view?usp=shari
 
 ### PRODUTOS E CATEGORIAS - MANUPILANDO MYSQL (PROMPT DE COMANDOS):
 (13/05/2026)
+
  https://drive.google.com/file/d/1WpDM4DEjTIdAL_6iKzk8sHJ1E-3PeXJS/view?usp=sharing - Prompt (.txt)
  https://drive.google.com/file/d/15HGKPfZN3pl5c1UalovPLPSCJWgfpnn_/view?usp=sharing - mysql (.sql)
  
