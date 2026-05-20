@@ -4,9 +4,16 @@ RM: 25204
 
 # SEGUNDO BIMESTRE:
 
+### PRODUTOS E CATEGORIAS - CONTINUAÇÃO INCREMENTO (PROMPT DE COMANDOS):
+
+https://drive.google.com/file/d/16HhwocgLrQAZtHdubuSboxqXbUF0l5nz/view?usp=sharing - Prompt (.txt)
+https://drive.google.com/file/d/1il1CeWPQVH1zfFcrKsKOFaO34X-j5Kv2/view?usp=sharing - mysql (.sql)
+
+
+
 ### PRODUTOS E CATEGORIAS - MANUPILANDO MYSQL (PROMPT DE COMANDOS):
  https://drive.google.com/file/d/1WpDM4DEjTIdAL_6iKzk8sHJ1E-3PeXJS/view?usp=sharing - Prompt (.txt)
- https://drive.google.com/file/d/15HGKPfZN3pl5c1UalovPLPSCJWgfpnn_/view?usp=sharing - PHP Myadmin (.sql)
+ https://drive.google.com/file/d/15HGKPfZN3pl5c1UalovPLPSCJWgfpnn_/view?usp=sharing - mysql (.sql)
  
  ### ESTÚDIO DE TATUAGEM:
  https://app.brmodeloweb.com/#!/publicview/69f286e27b72b11ace70571d - Conceitual
