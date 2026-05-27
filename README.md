@@ -1,11 +1,16 @@
 # 🗄️ Estudo de Banco de Dados (SQL)
-##Gustavo Vieira Lima
+## Gustavo Vieira Lima
 RM: 25204
+
+### A ORGANIZAÇÃO DO REPOSITÓRIO:
+ -> A organização é realizade de acordo com a data das aulas, com os conteúdos armanezados em link público do drive, tornando-os públicos.
+ -> Estão organizadas por: Bimestre, Nome da aula/Conteúdo, Data e Links, respectivamente.
+ -> Este Github é organizado para a matéria de Bco de Dados ministrada no ano de 2026, pela professora Cintia Pinho.
 
 # SEGUNDO BIMESTRE:
 
     PRODUTOS E CATEGORIAS - UTILIZANDO METODOLOGIA DE UPDATE NO BANCO DE DADOS:
-    (27/05/2026)
+(27/05/2026)
 
 https://docs.google.com/document/d/1AcfcFD6SpUDmtFaZyGNKfbAYV8yGUCG6WB_WbTlOAe8/edit?usp=sharing - Prompt (.txt)
 https://drive.google.com/file/d/10xeDZYrZs6ICvNlYnPoXfsqQUTpk1BD_/view?usp=sharing - mysql (.sql)
