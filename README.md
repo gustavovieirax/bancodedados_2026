@@ -4,7 +4,9 @@ RM: 25204
 
 ### A ORGANIZAÇÃO DO REPOSITÓRIO:
  -> A organização é realizade de acordo com a data das aulas, com os conteúdos armanezados em link público do drive, tornando-os públicos.
+ 
  -> Estão organizadas por: Bimestre, Nome da aula/Conteúdo, Data e Links, respectivamente.
+ 
  -> Este Github é organizado para a matéria de Bco de Dados ministrada no ano de 2026, pela professora Cintia Pinho.
 
 # SEGUNDO BIMESTRE:
