@@ -4,6 +4,12 @@ RM: 25204
 
 # SEGUNDO BIMESTRE:
 
+### PRODUTOS E CATEGORIAS - UTILIZANDO METODOLOGIA DE UPDATE NO BANCO DE DADOS:
+(27/05/2026)
+
+https://docs.google.com/document/d/1AcfcFD6SpUDmtFaZyGNKfbAYV8yGUCG6WB_WbTlOAe8/edit?usp=sharing - Prompt (.txt)
+https://drive.google.com/file/d/10xeDZYrZs6ICvNlYnPoXfsqQUTpk1BD_/view?usp=sharing - mysql (.sql)
+
 ### PRODUTOS E CATEGORIAS - CONTINUAÇÃO INCREMENTO (PROMPT DE COMANDOS):
 (20/05/2026)
 
@@ -32,21 +38,21 @@ https://drive.google.com/file/d/1rdzTO-YSSQVsC07j1YSXrwy3pYNrGgs1/view?usp=shari
 
 # PRIMEIRO BIMESTRE:
 
-### IMOBILIÁRIA:
+        IMOBILIÁRIA:
 
 - Anexado por png (Por ter feito em sala pelo aplicativo brmodelo)
 
-### VETERINÁRIA: 
+      VETERINÁRIA: 
 
 https://app.brmodeloweb.com/#!/publicview/69debff5c630eb74498ac1cb - Conceitual
 https://app.brmodeloweb.com/#!/publicview/69dec059c630eb74498ac218 - Lógico
 
-### HOTEL
+    HOTEL
 
 https://app.brmodeloweb.com/#!/publicview/69dec615c630eb74498ac71d - Conceitual
 https://app.brmodeloweb.com/#!/publicview/69dec630c630eb74498ac734- Lógico
 
-### FILMES
+    FILMES
 
 https://app.brmodeloweb.com/#!/publicview/69dec7e2e33b4dc332f901e2 - Conceitual
 https://app.brmodeloweb.com/#!/publicview/69dec80ce33b4dc332f90215 - Lógico
