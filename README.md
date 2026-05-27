@@ -4,33 +4,32 @@ RM: 25204
 
 # SEGUNDO BIMESTRE:
 
-### PRODUTOS E CATEGORIAS - UTILIZANDO METODOLOGIA DE UPDATE NO BANCO DE DADOS:
+    PRODUTOS E CATEGORIAS - UTILIZANDO METODOLOGIA DE UPDATE NO BANCO DE DADOS:
 (27/05/2026)
 
 https://docs.google.com/document/d/1AcfcFD6SpUDmtFaZyGNKfbAYV8yGUCG6WB_WbTlOAe8/edit?usp=sharing - Prompt (.txt)
 https://drive.google.com/file/d/10xeDZYrZs6ICvNlYnPoXfsqQUTpk1BD_/view?usp=sharing - mysql (.sql)
 
-### PRODUTOS E CATEGORIAS - CONTINUAÇÃO INCREMENTO (PROMPT DE COMANDOS):
+    PRODUTOS E CATEGORIAS - CONTINUAÇÃO INCREMENTO (PROMPT DE COMANDOS):
 (20/05/2026)
 
 https://drive.google.com/file/d/16HhwocgLrQAZtHdubuSboxqXbUF0l5nz/view?usp=sharing - Prompt (.txt)
 https://drive.google.com/file/d/1il1CeWPQVH1zfFcrKsKOFaO34X-j5Kv2/view?usp=sharing - mysql (.sql)
 
 
-
-### PRODUTOS E CATEGORIAS - MANUPILANDO MYSQL (PROMPT DE COMANDOS):
+    PRODUTOS E CATEGORIAS - MANUPILANDO MYSQL (PROMPT DE COMANDOS):
 (13/05/2026)
 
  https://drive.google.com/file/d/1WpDM4DEjTIdAL_6iKzk8sHJ1E-3PeXJS/view?usp=sharing - Prompt (.txt)
  https://drive.google.com/file/d/15HGKPfZN3pl5c1UalovPLPSCJWgfpnn_/view?usp=sharing - mysql (.sql)
  
- ### ESTÚDIO DE TATUAGEM:
+    ESTÚDIO DE TATUAGEM:
  https://app.brmodeloweb.com/#!/publicview/69f286e27b72b11ace70571d - Conceitual
  https://app.brmodeloweb.com/#!/publicview/69f28a2d7b72b11ace7058b8 - Lógico
  
 https://drive.google.com/file/d/1rdzTO-YSSQVsC07j1YSXrwy3pYNrGgs1/view?usp=sharing -  SQL (.txt) 
 
- ### MECÂNICA
+    MECÂNICA
  https://app.brmodeloweb.com/#!/publicview/69f290837b72b11ace705c46 - Conceitual
  https://app.brmodeloweb.com/#!/publicview/69f290cb7b72b11ace705c79 - Lógico
  
