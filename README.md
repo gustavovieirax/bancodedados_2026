@@ -1,6 +1,6 @@
-# 🗄️ Estudo de Banco de Dados (SQL)
-## Gustavo Vieira Lima
-RM: 25204
+    # 🗄️ Estudo de Banco de Dados (SQL)
+    ## Gustavo Vieira Lima
+    RM: 25204
 
 # SEGUNDO BIMESTRE:
 
