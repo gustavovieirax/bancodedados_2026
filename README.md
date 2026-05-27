@@ -1,11 +1,11 @@
-    # 🗄️ Estudo de Banco de Dados (SQL)
-    ## Gustavo Vieira Lima
-    RM: 25204
+# 🗄️ Estudo de Banco de Dados (SQL)
+##Gustavo Vieira Lima
+RM: 25204
 
 # SEGUNDO BIMESTRE:
 
     PRODUTOS E CATEGORIAS - UTILIZANDO METODOLOGIA DE UPDATE NO BANCO DE DADOS:
-(27/05/2026)
+    (27/05/2026)
 
 https://docs.google.com/document/d/1AcfcFD6SpUDmtFaZyGNKfbAYV8yGUCG6WB_WbTlOAe8/edit?usp=sharing - Prompt (.txt)
 https://drive.google.com/file/d/10xeDZYrZs6ICvNlYnPoXfsqQUTpk1BD_/view?usp=sharing - mysql (.sql)
