@@ -1,4 +1,4 @@
-# <img width="20" height="20" alt="mysql icon" src="https://github.com/user-attachments/assets/cd007920-ff18-40d2-9127-516904f159a8" /> Estudo de Banco de Dados (SQL)
+# <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/008dd6ad-653e-4c2c-8a52-2988acca7791" /> Estudo de Banco de Dados (SQL)
 ## Gustavo Vieira Lima
 RM: 25204
 
