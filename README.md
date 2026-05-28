@@ -1,4 +1,4 @@
-# <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/008dd6ad-653e-4c2c-8a52-2988acca7791" /> Estudo de Banco de Dados (SQL) <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/31de0e23-6765-4d7f-80bb-d92e4b8b274a" />
+# <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/008dd6ad-653e-4c2c-8a52-2988acca7791" /> Estudo de Banco de Dados (SQL) <img width="100" height="200" alt="image" src="https://github.com/user-attachments/assets/31de0e23-6765-4d7f-80bb-d92e4b8b274a" />
 
 
 
