@@ -11,21 +11,18 @@ RM: 25204
 
 # SEGUNDO BIMESTRE:
 
-    PRODUTOS E CATEGORIAS - UTILIZANDO METODOLOGIA DE UPDATE NO BANCO DE DADOS:
-(27/05/2026)
-
+    PRODUTOS E CATEGORIAS - UTILIZANDO METODOLOGIA DE UPDATE NO BANCO DE DADOS: (27/05/2026)
+    
 https://docs.google.com/document/d/1AcfcFD6SpUDmtFaZyGNKfbAYV8yGUCG6WB_WbTlOAe8/edit?usp=sharing - Prompt (.txt)
 https://drive.google.com/file/d/10xeDZYrZs6ICvNlYnPoXfsqQUTpk1BD_/view?usp=sharing - mysql (.sql)
 
-    PRODUTOS E CATEGORIAS - CONTINUAÇÃO INCREMENTO (PROMPT DE COMANDOS):
-(20/05/2026)
-
+    PRODUTOS E CATEGORIAS - CONTINUAÇÃO INCREMENTO (PROMPT DE COMANDOS): (20/05/2026)
+    
 https://drive.google.com/file/d/16HhwocgLrQAZtHdubuSboxqXbUF0l5nz/view?usp=sharing - Prompt (.txt)
 https://drive.google.com/file/d/1il1CeWPQVH1zfFcrKsKOFaO34X-j5Kv2/view?usp=sharing - mysql (.sql)
 
 
-    PRODUTOS E CATEGORIAS - MANUPILANDO MYSQL (PROMPT DE COMANDOS):
-(13/05/2026)
+    PRODUTOS E CATEGORIAS - MANUPILANDO MYSQL (PROMPT DE COMANDOS): (13/05/2026)
 
  https://drive.google.com/file/d/1WpDM4DEjTIdAL_6iKzk8sHJ1E-3PeXJS/view?usp=sharing - Prompt (.txt)
  https://drive.google.com/file/d/15HGKPfZN3pl5c1UalovPLPSCJWgfpnn_/view?usp=sharing - mysql (.sql)
