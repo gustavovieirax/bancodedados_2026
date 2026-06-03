@@ -17,6 +17,7 @@ RM: 25204
     TESTANDO COMANDOS DQL e DELETE - COMANDO SELECT: (03/06/2026)
 
 https://docs.google.com/document/d/1Y1FN2rVKkWiCH20K8xKID_of2y8iu2Tl6EmDFMTEjko/edit?usp=sharing - Prompt (.txt)
+
 https://drive.google.com/file/d/1oYU8pPtiDu7BYmTB5NS9pqHveNbZwRYc/view?usp=sharing - mysql (.sql)
 
     PRODUTOS E CATEGORIAS - UTILIZANDO METODOLOGIA DE UPDATE NO BANCO DE DADOS: (27/05/2026)
