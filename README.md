@@ -6,7 +6,7 @@
 RM: 25204
 
 ### A ORGANIZAÇÃO DO REPOSITÓRIO:
- -> A organização é realizade de acordo com a data das aulas, com os conteúdos armanezados em link público do drive, tornando-os públicos.
+ -> A organização é realizade de acordo com a data das aulas, com os conteúdos armanezados em link público do drive, tornando-os de livre acesso.
  
  -> Estão organizadas por: Bimestre, Nome da aula/Conteúdo, Data e Links, respectivamente.
  
@@ -14,9 +14,15 @@ RM: 25204
 
 # SEGUNDO BIMESTRE:
 
+    TESTANDO COMANDOS DQL e DELETE - COMANDO SELECT: (03/06/2026)
+
+https://docs.google.com/document/d/1Y1FN2rVKkWiCH20K8xKID_of2y8iu2Tl6EmDFMTEjko/edit?usp=sharing - Prompt (.txt)
+https://drive.google.com/file/d/1oYU8pPtiDu7BYmTB5NS9pqHveNbZwRYc/view?usp=sharing - mysql (.sql)
+
     PRODUTOS E CATEGORIAS - UTILIZANDO METODOLOGIA DE UPDATE NO BANCO DE DADOS: (27/05/2026)
     
 https://docs.google.com/document/d/1AcfcFD6SpUDmtFaZyGNKfbAYV8yGUCG6WB_WbTlOAe8/edit?usp=sharing - Prompt (.txt)
+
 https://drive.google.com/file/d/10xeDZYrZs6ICvNlYnPoXfsqQUTpk1BD_/view?usp=sharing - mysql (.sql)
 
     PRODUTOS E CATEGORIAS - CONTINUAÇÃO INCREMENTO (PROMPT DE COMANDOS): (20/05/2026)
@@ -65,4 +71,4 @@ https://app.brmodeloweb.com/#!/publicview/69dec80ce33b4dc332f90215 - Lógico
 
 Repositório dedicado ao aprendizado de modelagem, consultas e administração de bancos de dados.
 
-Professora: Cintia Pinho
+Professora: Cintia Pinho - (https://github.com/cintiapinho)
