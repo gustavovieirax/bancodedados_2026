@@ -1,0 +1,251 @@
+﻿C:\Users\ETEC> cd C:\xampp\mysql\bin
+
+
+C:\xampp\mysql\bin> mysql -uroot
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 54
+Server version: 10.4.24-MariaDB mariadb.org binary distribution
+
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+
+MariaDB [(none)]> use produtos
+Database changed
+MariaDB [produtos]> delete from produtos where id_produto =2;
+ERROR 1054 (42S22): Unknown column 'id_produto' in 'where clause'
+MariaDB [produtos]> delete from produtos where idproduto = 2;
+Query OK, 1 row affected (0.016 sec)
+
+
+MariaDB [produtos]> select * from produtos
+    ->
+    -> ;
++-----------+----------------+--------+------+------------+-------+-------+-----
+-----------+--------+
+| idproduto | produto        | preco  | qtde | datacad    | ativo | idcat | obse
+rvacao     | Marca  |
++-----------+----------------+--------+------+------------+-------+-------+-----
+-----------+--------+
+|         1 | Acém Peça      |  39.99 |   50 | 2026-05-13 | ☺     |     3 | Sem
+gordura    | Friboi |
+|         3 | Mussarela      |  30.50 |   55 | 2025-05-01 | ☺     |     2 |
+           | Seara  |
+|         4 | Detergente Ipê |   2.50 |  100 | 2026-05-06 | ☺     |     4 |
+           | YPE    |
+|         5 | Sabão em pó    |   9.90 |  100 | 2026-05-27 | ☺     |     4 | Lava
+gem rápida | Omo    |
+|         6 | Amaciante      |  10.99 |  100 | 2026-05-27 | ☺     |     4 |
+           | omo    |
+|         7 | Cloro          |  11.99 |  100 | 2026-05-27 | ☺     |     4 |
+           | omo    |
+|         8 | Desenfetante   |  13.99 |  100 | 2026-05-27 | ☺     |     4 |
+           | veja   |
+|         9 | Lapiseira      |  19.99 |  100 | 2026-05-27 | ☺     |     6 |
+           | pentel |
+|        10 | Caneta         |   1.99 |  100 | 2026-05-27 | ☺     |     6 |
+           | Bic    |
+|        11 | Tesoura        |   3.99 |  100 | 2026-05-27 | ☺     |     6 |
+           | ABC    |
+|        12 | Estilete       |   9.99 |  100 | 2026-05-27 | ☺     |     6 |
+           | ABC    |
+|        13 | Caneta gel     |  12.99 |  100 | 2026-05-27 | ☺     |     6 |
+           | Xin    |
+|        14 | Borracha       |   1.99 |  100 | 2026-05-27 | ☺     |     6 |
+           | Kaz    |
+|        15 | Estojo         |  89.99 |  100 | 2026-05-27 | ☺     |     6 |
+           | Win    |
+|        16 | Mochila        | 199.90 |  100 | 2026-05-27 | ☺     |     6 |
+           | Ion    |
+|        17 | PC             |   4.00 |  100 | 2026-05-27 | ☺     |     5 |
+           | LG     |
++-----------+----------------+--------+------+------------+-------+-------+-----
+-----------+--------+
+16 rows in set (0.000 sec)
+
+
+
+
+MariaDB [produtos]> select produto, preco from produtos;
++----------------+--------+
+| produto        | preco  |
++----------------+--------+
+| Acém Peça      |  39.99 |
+| Mussarela      |  30.50 |
+| Detergente Ipê |   2.50 |
+| Sabão em pó    |   9.90 |
+| Amaciante      |  10.99 |
+| Cloro          |  11.99 |
+| Desenfetante   |  13.99 |
+| Lapiseira      |  19.99 |
+| Caneta         |   1.99 |
+| Tesoura        |   3.99 |
+| Estilete       |   9.99 |
+| Caneta gel     |  12.99 |
+| Borracha       |   1.99 |
+| Estojo         |  89.99 |
+| Mochila        | 199.90 |
+| PC             |   4.00 |
++----------------+--------+
+16 rows in set (0.000 sec)
+
+
+MariaDB [produtos]> select * from produtos where marca = 'LG';
++-----------+---------+-------+------+------------+-------+-------+------------+
+-------+
+| idproduto | produto | preco | qtde | datacad    | ativo | idcat | observacao |
+ Marca |
++-----------+---------+-------+------+------------+-------+-------+------------+
+-------+
+|        17 | PC      |  4.00 |  100 | 2026-05-27 | ☺     |     5 |            |
+ LG    |
++-----------+---------+-------+------+------------+-------+-------+------------+
+-------+
+1 row in set (0.000 sec)
+
+
+MariaDB [produtos]> select * from produtos where preco > 100;
++-----------+---------+--------+------+------------+-------+-------+------------
++-------+
+| idproduto | produto | preco  | qtde | datacad    | ativo | idcat | observacao
+| Marca |
++-----------+---------+--------+------+------------+-------+-------+------------
++-------+
+|        16 | Mochila | 199.90 |  100 | 2026-05-27 | ☺     |     6 |
+| Ion   |
++-----------+---------+--------+------+------------+-------+-------+------------
++-------+
+1 row in set (0.000 sec)
+
+
+MariaDB [produtos]> select * from produtos where qtde <=60;
++-----------+-----------+-------+------+------------+-------+-------+-----------
+--+--------+
+| idproduto | produto   | preco | qtde | datacad    | ativo | idcat | observacao
+  | Marca  |
++-----------+-----------+-------+------+------------+-------+-------+-----------
+--+--------+
+|         1 | Acém Peça | 39.99 |   50 | 2026-05-13 | ☺     |     3 | Sem gordur
+a | Friboi |
+|         3 | Mussarela | 30.50 |   55 | 2025-05-01 | ☺     |     2 |
+  | Seara  |
++-----------+-----------+-------+------+------------+-------+-------+-----------
+--+--------+
+2 rows in set (0.000 sec)
+
+
+MariaDB [produtos]> select produto, preco from produtos order by preco asc limit
+ 5;
++----------------+-------+
+| produto        | preco |
++----------------+-------+
+| Caneta         |  1.99 |
+| Borracha       |  1.99 |
+| Detergente Ipê |  2.50 |
+| Tesoura        |  3.99 |
+| PC             |  4.00 |
++----------------+-------+
+5 rows in set (0.000 sec)
+
+
+MariaDB [produtos]> select produto, preco from produtos order by preco desc limi
+t 5;
++-----------+--------+
+| produto   | preco  |
++-----------+--------+
+| Mochila   | 199.90 |
+| Estojo    |  89.99 |
+| Acém Peça |  39.99 |
+| Mussarela |  30.50 |
+| Lapiseira |  19.99 |
++-----------+--------+
+5 rows in set (0.000 sec)
+
+
+MariaDB [produtos]> select avg(preco) as preco_medio from produtos;
++-------------+
+| preco_medio |
++-------------+
+|   29.043125 |
++-------------+
+1 row in set (0.000 sec)
+
+
+MariaDB [produtos]> select count(*) as total_produto from produtos;
++---------------+
+| total_produto |
++---------------+
+|            16 |
++---------------+
+1 row in set (0.000 sec)
+
+
+MariaDB [produtos]> select produto, qtde from produtos order by qtde desc limit
+1;
++----------------+------+
+| produto        | qtde |
++----------------+------+
+| Detergente Ipê |  100 |
++----------------+------+
+1 row in set (0.000 sec)
+
+
+MariaDB [produtos]> SELECT * FROM produtos
+    -> WHERE preco BETWEEN 10 AND 20;
++-----------+--------------+-------+------+------------+-------+-------+--------
+----+--------+
+| idproduto | produto      | preco | qtde | datacad    | ativo | idcat | observa
+cao | Marca  |
++-----------+--------------+-------+------+------------+-------+-------+--------
+----+--------+
+|         6 | Amaciante    | 10.99 |  100 | 2026-05-27 | ☺     |     4 |
+    | omo    |
+|         7 | Cloro        | 11.99 |  100 | 2026-05-27 | ☺     |     4 |
+    | omo    |
+|         8 | Desenfetante | 13.99 |  100 | 2026-05-27 | ☺     |     4 |
+    | veja   |
+|         9 | Lapiseira    | 19.99 |  100 | 2026-05-27 | ☺     |     6 |
+    | pentel |
+|        13 | Caneta gel   | 12.99 |  100 | 2026-05-27 | ☺     |     6 |
+    | Xin    |
++-----------+--------------+-------+------+------------+-------+-------+--------
+----+--------+
+5 rows in set (0.000 sec)
+
+
+MariaDB [produtos]> SELECT * FROM produtos WHERE produto LIKE 'P%';
++-----------+---------+-------+------+------------+-------+-------+------------+
+-------+
+| idproduto | produto | preco | qtde | datacad    | ativo | idcat | observacao |
+ Marca |
++-----------+---------+-------+------+------------+-------+-------+------------+
+-------+
+|        17 | PC      |  4.00 |  100 | 2026-05-27 | ☺     |     5 |            |
+ LG    |
++-----------+---------+-------+------+------------+-------+-------+------------+
+-------+
+1 row in set (0.000 sec)
+
+
+MariaDB [produtos]> SELECT DISTINCT marca FROM produtos;
++--------+
+| marca  |
++--------+
+| Friboi |
+| Seara  |
+| YPE    |
+| Omo    |
+| veja   |
+| pentel |
+| Bic    |
+| ABC    |
+| Xin    |
+| Kaz    |
+| Win    |
+| Ion    |
+| LG     |
++--------+
+13 rows in set (0.000 sec)
