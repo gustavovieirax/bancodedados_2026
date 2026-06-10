@@ -13,6 +13,10 @@ RM: 25204
  -> Este Github é organizado para a matéria de Bco de Dados ministrada no ano de 2026, pela professora Cintia Pinho.
 
 # SEGUNDO BIMESTRE:
+    ATIVIDADE PRÉ-PROVA (JORNAL) (10/06/2026)
+
+https://drive.google.com/file/d/1hr-h_SygI0lav59cj64hhIgNOXLJRMC0/view?usp=sharing - Prompt (.txt)
+https://drive.google.com/file/d/1_GsZMBmJScPHzwLeWzG-fPnnCOmpV7u-/view?usp=sharing - mysql (.sql)
 
     TESTANDO COMANDOS DQL e DELETE - COMANDO SELECT: (03/06/2026)
 
