@@ -12,6 +12,16 @@ RM: 25204
  
  -> Este Github é organizado para a matéria de Bco de Dados ministrada no ano de 2026, pela professora Cintia Pinho.
 
+# TERCEIRO BIMESTRE:
+
+    MANIPULANDO PELO LOCALHOST
+
+https://drive.google.com/file/d/1kwwNIUt2bpkDzwCzlUlxpNqKYnr1fRrE/view?usp=sharing - Arquivo(.sql)
+https://drive.google.com/file/d/1bEiDFjzAIUIDeBzBnnXtfxvEx4Ohov49/view?usp=sharing - Bloco de notas (.txt)
+
+
+
+
 # SEGUNDO BIMESTRE:
     ATIVIDADE PRÉ-PROVA (JORNAL) (10/06/2026)
 
