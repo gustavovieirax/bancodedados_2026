@@ -16,9 +16,6 @@ RM: 25204
 
     MANIPULANDO PELO LOCALHOST
 
-https://drive.google.com/file/d/1kwwNIUt2bpkDzwCzlUlxpNqKYnr1fRrE/view?usp=sharing - Arquivo(.sql)
-https://drive.google.com/file/d/1bEiDFjzAIUIDeBzBnnXtfxvEx4Ohov49/view?usp=sharing - Bloco de notas (.txt)
-
 
 
 
